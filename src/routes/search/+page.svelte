@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en-us">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <title>Pepsearch - Search</title>
+      <link href="../style.css" rel="stylesheet" type="text/css" />
+      <link rel="shortcut icon" type="image/png" href="/logo-icon.png" />
+      <script src="https://cdn.tailwindcss.com"></script>
+      <meta name="title" content="Pepsearch - AI Search Engine">
+      <meta name="description" content="AI search without the mentos.">
+      <meta name="og:title" content="Pepsearch - AI Search Engine">
+      <meta name="og:description" content="AI search without the mentos.">
+      <meta name="keywords" content="google, gce, search engine, search, bing">
+      <meta name="robots" content="index, follow">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="language" content="English">
+      <meta name="revisit-after" content="1 days">
+   </head>
+   <body>
+	   <div class="sticky top-3 max-w-full ml-2 bg-barfly p-6 rounded-xl shadow-md z-50">
+        <a href="/"><img id="logolol" class="sticky top-3 center" src="/logo-icon.png" height="70" width="70" alt="pepsearch logo" style="float:left;margin:-15px -10px;"></a>
+    <form id="search-form" class="flex items-center">
+      <input
+        type="text"
+        id="query"
+        placeholder="Enter your search query"
+        required
+        class="w-80 px-4 py-2 bg-neutral-600 border border-gray-300 rounded-3xl focus:outline-none"
+	style="float:left;margin:0px 10px;"
+      />
+      <button
+        type="submit"
+        id="submit"
+        class="bg-blue-500 text-white px-4 py-3 rounded-3xl"
+      >
+        <svg width="20" height="20" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 6.5C10 8.433 8.433 10 6.5 10C4.567 10 3 8.433 3 6.5C3 4.567 4.567 3 6.5 3C8.433 3 10 4.567 10 6.5ZM9.30884 10.0159C8.53901 10.6318 7.56251 11 6.5 11C4.01472 11 2 8.98528 2 6.5C2 4.01472 4.01472 2 6.5 2C8.98528 2 11 4.01472 11 6.5C11 7.56251 10.6318 8.53901 10.0159 9.30884L12.8536 12.1464C13.0488 12.3417 13.0488 12.6583 12.8536 12.8536C12.6583 13.0488 12.3417 13.0488 12.1464 12.8536L9.30884 10.0159Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path></svg>
+      </button>
+    </form>
+  </div>
+<br>
+	   <div id="mayzer" class="top-3 container max-w-screen-sm w-full h-full aspect-square float-right z-40 sticky scale-100">
+  <iframe src="https://mayzer.pepsearch.xyz" title="Mayzer" frameborder="0" class="border-0 border-zinc-600 right-0 w-full max-w-screen-sm aspect-square"></iframe>
+</div>
+
+  <br>
+   <div id="results" class="max-w-prose"></div>
+   
+     <script src="/bangs.js"></script>
+     <script src="/searchpage.js"></script>
+	<p>Forjed and affiliates have accepted that the results code under Eclipse Public License 2.0 can be used in Pepsearch.</p><a href="//www.dmca.com/Protection/Status.aspx?id=b8f02730-3e72-46e3-812b-fff4a87d7bbf" title="DMCA.com Protection Status" class="dmca-badge"> <img src="//images.dmca.com/Badges/dmca-badge-w100-5x1-04.png?ID=//www.dmca.com/Protection/Status.aspx?id=b8f02730-3e72-46e3-812b-fff4a87d7bbf" alt="DMCA.com Protection Status"></a> <script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+   </body>
+</html>

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width">
-        <meta property="og:image" content="assets/logo-icon.png">
+        <meta property="og:image" content="/logo-icon.png">
         <meta property="og:image:width" content="100">
         <meta property="og:image:height" content="100">
         <meta name="theme-color" content="#004B93">

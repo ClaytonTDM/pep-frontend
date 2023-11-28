@@ -1,8 +1,9 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-us">
 <head>
-  <title>About - Pepsearch</title>
+  <title>Contact - Pepsearch</title>
   <meta charset="utf-8">
-  <link rel="shortcut icon" type="image/png" href="/assets/logo-icon.png" />
+  <link rel="shortcut icon" type="image/png" href="/logo-icon.png" />
   <meta name="viewport" content="width=device-width">
   <link href="style.css" rel="stylesheet" type="text/css" />
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -10,19 +11,18 @@
 </head>
 <body>
   <header>
-    <a href="/"><img src="/assets/logo-text.png" id="pepsearch-logo" height="70px" width="375px"></a>
+    <a href="/"><img src="/logo-text.png" alt="Pepsearch" id="pepsearch-logo" height="70px" width="375px"></a>
   </header>
   <div class="container">
-    <h1>About <b><span class="p">P</span><span class="e">e</span><span class="other-p">p</span><span class="other-title">Search</span></b></h1>
-    <p>Pepsearch offers AI searching without the trackers or the big bad selling of data like Google and Microsoft.</p>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-	<br>
+    <h1>Contact <b><span class="p">P</span><span class="e">e</span><span class="other-p">p</span><span class="other-title">Search</span></b></h1>
+    <h3>Contact info</h3>
+    <p>You wanna contact us? too bad buddy. we aint got any contact.
+    </p>
+	  <br>
   </div>
+  <br>
+  <br>
+  <br>
   <br>
   <br>
   <br>
